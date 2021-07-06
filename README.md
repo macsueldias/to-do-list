@@ -8,8 +8,10 @@
 
 <h3>Tecnologia</h3>
 <!--ts-->
+
    * [HTML](#HTML)
    * [CSS](#CSS)
    * [JavaScript](#JavaScript)
+   
 <!--te-->
 
